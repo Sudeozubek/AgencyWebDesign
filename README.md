@@ -1,9 +1,22 @@
-- 👋 Hi, I’m @Sudeozubek
-- 👀 I’m interested in software development
-- 🌱 I’m currently learning python, javascript
-- 📫 How to reach me : ???
+Agency Website
 
-<!---
-Sudeozubek/Sudeozubek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+A modern **agency website frontend** built using **HTML, CSS, and JavaScript**, designed to provide a seamless and user-friendly experience.  
+
+🚀 Features  
+
+✅ **Fully Responsive Design** - Optimized for all screen sizes  
+
+✅ **Smooth Navigation** - Intuitive UI for better user experience  
+
+✅ **Modern & Clean UI** - Professional agency-style aesthetics  
+
+✅ **Interactive Elements** - Engaging animations and hover effects  
+
+🛠️ Tech Stack  
+
+- **HTML5** - Semantic and accessible structure
+  
+- **CSS3** - Modern styling with Flexbox & Grid
+  
+- **JavaScript** - Dynamic interactivity  
+
