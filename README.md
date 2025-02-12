@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sudeozubek
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning python, c++, javascript
+- 🌱 I’m currently learning python, javascript
 - 📫 How to reach me : ???
 
 <!---
